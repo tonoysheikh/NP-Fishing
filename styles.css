@@ -429,7 +429,7 @@ li:hover{
     display: inline-block;
     padding-top:10px;
     padding-bottom: 10px;
-    color: #7ebcaae3;
+    color: #5aa989e3;
   }
   .leaderboard-header{
     display: flex;
@@ -454,7 +454,7 @@ li:hover{
     text-align: center;
     margin-right: 5%;
     height: 30px;
-    text-shadow: 0 0 18px #7bf3f78a ;
+    text-shadow: 0 0 15px #94e8ebba ;
     font-weight: 400;
   }
   .angler{
@@ -462,7 +462,7 @@ li:hover{
     text-align: center;
     margin-right: 5%;
     height: 30px;
-    text-shadow: 0 0 18px #7bf3f78a ;
+    text-shadow: 0 0 15px #94e8ebba ;
     font-weight: 400;
   }
   .caught{
@@ -470,7 +470,7 @@ li:hover{
     text-align: center;
     margin-right: 5%;
     height: 30px;
-    text-shadow: 0 0 18px #7bf3f78a ;
+    text-shadow: 0 0 15px #94e8ebba ;
     font-weight: 400;
   }
 
